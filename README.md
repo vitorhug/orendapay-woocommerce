@@ -1,2 +1,9 @@
 # orendapay-woocommerce
-OrendaPay Plugin for Woocommerce
+- English
+OrendaPay plugin for brazilian ticket payment on Woocommerce (Wordpress)
+
+- Portuguese Brazilian
+Plugin OrendaPay para pagamento por boleto através do Woocommerce do Wordpress
+
+www.orendapay.com.br
+
