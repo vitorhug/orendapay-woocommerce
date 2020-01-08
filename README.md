@@ -1,9 +1,6 @@
 # OrendaPay WooCommerce
 
 [![Licença do Software][badge-license]](LICENSE)
-[![Última Versão no WordPress][badge-version]][link-version]
-[![Avaliação do Plugin][badge-rates]][link-rates]
-[![Downloads no Total][badge-downloads]][link-downloads]
 
 ## Descrição
 O **OrendaPay WooCommerce** é uma solução para pagamentos por boleto bancário utilizando o [Woocommerce] (https://woocommerce.com/). Basta ter [um cadastro ativo na OrendaPay](https://www.orendapay.com.br/) para começar a receber de seus clientes pelo Checkout do Woocommerce. O plugin se caracteriza pela facilidade de configuração, de uso e pelo retorno  automático (callback) dos pagamentos.
